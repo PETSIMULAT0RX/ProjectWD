@@ -8,7 +8,7 @@ _G.AntiLeave = false
 
 _G.ScriptName = "ProjectWD"
 
-_G.FirstText = "script is loading..."
+_G.FirstText = "script is preparing..."
 
 _G.SecondText = "loading...."
 
